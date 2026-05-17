@@ -28,8 +28,8 @@ For security, this application does not have a public "Sign Up" page. Admin acce
 3. Enter your designated admin email and a secure password.
 4. Use these exact credentials to log in via the `/login` route on the frontend.
 
-Admin Email-admin@admin.com
-Password-123456
+Admin Email: admin@admin.com
+Password: 123456
 
 ---
 
