@@ -25,8 +25,11 @@ A real-time, full-stack web application designed to track and visualize the IPL 
 For security, this application does not have a public "Sign Up" page. Admin access must be manually provisioned:
 1. Navigate to your Firebase Console -> Authentication -> Users.
 2. Click **Add user**.
-3. Enter your designated admin email (e.g., `admin@sportsfan360.com`) and a secure password.
+3. Enter your designated admin email and a secure password.
 4. Use these exact credentials to log in via the `/login` route on the frontend.
+
+Admin Email-admin@admin.com
+Password-123456
 
 ---
 
