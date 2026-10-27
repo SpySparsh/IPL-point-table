@@ -1,4 +1,4 @@
-##IPL Points Table & Analytics
+# IPL Points Table & Analytics
 
 A real-time, full-stack web application designed to track and visualize the IPL 2026 season. This module features live standings updates, historical match data, and a secure admin dashboard for managing tournament results, built to support high-engagement interactive platforms.
 
